@@ -47,14 +47,11 @@ This Power BI dashboard analyzes data from Zomato to uncover key insights about 
 ## 📚 Tools Used
 - **Power BI Desktop**
 - **Excel** (for dataset formatting)
-- **Zomato Data** (from Kaggle or other public source)
+- **Zomato Data** 
 
 ---
 
 ## ✍️ Author
-[Your Name] – Data Analyst | Power BI Enthusiast
+Aparna Naik – Data Analyst | Power BI Enthusiast
 
----
 
-## 📜 License
-This project is for educational purposes only.
