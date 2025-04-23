@@ -30,9 +30,13 @@ This Power BI dashboard analyzes data from Zomato to uncover key insights about 
 
 ---
 
-## 📷 Screenshots
-(Add screenshots from your Power BI report here in a `screenshots/` folder and reference them like:  
-`![Dashboard Screenshot](screenshots/main_view.png)`)
+## 📸 Screenshots
+
+### Cover Page
+![Cover Page](Cover Page.png)
+
+### Dashboard View
+![Dashboard](Dashboard .png)
 
 ---
 
@@ -46,7 +50,7 @@ This Power BI dashboard analyzes data from Zomato to uncover key insights about 
 
 ## 📚 Tools Used
 - **Power BI Desktop**
-- **Excel** (for dataset formatting)
+- **Excel** 
 
 
 ---
