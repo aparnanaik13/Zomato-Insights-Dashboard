@@ -33,7 +33,7 @@ This Power BI dashboard analyzes data from Zomato to uncover key insights about 
 ## 📸 Screenshots
 
 ### Cover Page
-![Cover Page](C:\Users\Aparna Naik\OneDrive\Desktop\Power bi\Zomato Data Analysis Project\Screenshots)
+![Cover Page](./Cover Page.png)
 
 ### Dashboard View
 ![Dashboard](/Dashboard .png)
