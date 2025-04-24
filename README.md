@@ -33,7 +33,7 @@ This Power BI dashboard analyzes data from Zomato to uncover key insights about 
 ## 📸 Screenshots
 
 ### Cover Page
-![Cover Page](./Cover Page.png)
+![Cover Page](https://github.com/aparnanaik13/Zomato-Insights-Dashboard/blob/284d1e8a3e6c6eeb5c7434babbae8097825be3e3/Cover%20Page.png)
 
 ### Dashboard View
 ![Dashboard](/Dashboard .png)
